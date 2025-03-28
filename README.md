@@ -57,7 +57,31 @@ Creamos tres temas y los personalizamos y añadimos contenido y tascas.
 
 7.Entrega de tasca.
 Entrararemos como un alumno en este caso como Rusben y entregaremos la tasca que hemos abierto en el curso A. 
+
 ![Captura desde 2025-03-21 14-25-23](https://github.com/user-attachments/assets/2458c7b1-f7ad-4025-844e-815d50435723)
+
 Este es el documento que vamos a entregar.
+
 ![Captura desde 2025-03-21 14-27-04](https://github.com/user-attachments/assets/0a7b55ae-17e7-4fb0-a7f6-dd06d89884a5)
+
 Ya habriamos enviado la tasca como un alumno normal comprobando que funciona perfectamente.
+
+
+8.Gestion de contenidos.
+Ahora añadiremos mas contenido a nustro curso como por ejemplo un questionario y alguna tasca.
+![Captura desde 2025-03-28 13-54-22](https://github.com/user-attachments/assets/5e36cc07-6711-4c8d-9824-b88e2bbdffc9)
+![Captura desde 2025-03-28 13-59-18](https://github.com/user-attachments/assets/54d0efb9-5f90-4616-9a61-d5a2d083d7ca)
+Ahora importaremos el curso A para exportarlo en el B y poder tener el contenido en los dos.
+![Captura desde 2025-03-28 14-00-22](https://github.com/user-attachments/assets/1952f794-f2e3-486e-bf7c-dd360e1e3f6d)
+![Captura desde 2025-03-28 14-02-39](https://github.com/user-attachments/assets/9eb47c1c-15ea-4382-9a10-f542d79717d3)
+Ahora ya tenemos el contenido en los dos 
+
+
+9.Questionarios. 
+Vamos a configurar un par de pregunats para nuestro questionario.
+![Captura desde 2025-03-28 14-19-42](https://github.com/user-attachments/assets/bee6becd-c8d3-4028-9a3c-db3d0df347f1)
+![Captura desde 2025-03-28 14-20-58](https://github.com/user-attachments/assets/c8496a9e-ee72-4c94-88b3-13aba2481f0c)
+
+Una vez hecho esto las añadimos al questionario y comprobamos que funcione.
+![Captura desde 2025-03-28 14-22-07](https://github.com/user-attachments/assets/b4d76211-6772-412a-b7f1-55a5402d81bf)
+![Captura desde 2025-03-28 14-22-47](https://github.com/user-attachments/assets/e9c2526d-0b4b-4f02-8d40-62a9d09df581)
